@@ -1,0 +1,6 @@
+,
+Data_R,./Data/Subject01/2020-02-07/Dynamic/trial2-subject1-070220_forceplate_2.csv
+Data_L,./Data/Subject01/2020-02-07/Dynamic/trial2-subject1-070220_forceplate_1.csv
+Motion Data,./Data/Subject01/2020-02-07/Dynamic/trial2-subject1-070220.csv
+Output_path,./Output/Subject01/2020-02-07/Dynamic/
+Output_name,subject1-070220_grf
