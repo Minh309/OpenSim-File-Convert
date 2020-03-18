@@ -4,7 +4,7 @@ First of all, please organize the data with this format. The input and output da
 Data -> <Subject_no> -> <Date of experiment> -> Dynamic/Static 
 Output -> <Subject_no> -> <Date of experiment> -> Dynamic/Static 
 Example: 
-Data -> Subject_01 -> 2020_02_07 -> Static -> TPose.csv 
+Data/Subject_01/2020_02_07/Static/TPose.csv 
 
 To convert to the .trc format used in OpenSim's Inverse Kinematics, please open the configuration file named: "setting_motion.csv"
 In this file, 
